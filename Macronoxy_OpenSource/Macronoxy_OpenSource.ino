@@ -1,3 +1,4 @@
+//This is an example version, so you can get an idea of how it works
 #include <Keyboard.h>
 #include <KeyboardLayout.h>
 #include <EEPROM.h>
