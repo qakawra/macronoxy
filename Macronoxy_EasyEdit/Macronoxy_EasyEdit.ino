@@ -1,3 +1,5 @@
+//This version of the code is meant to be a master copy thats easy to edit
+// Download, code commands, and go!
 #include <Keyboard.h>
 #include <KeyboardLayout.h>
 #include <EEPROM.h>
